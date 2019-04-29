@@ -16,8 +16,8 @@ What are we looking for?
 5. Your knowledge of Test Driven Development
 
 <b>Instructions on how to submit your work</b>
-1. <b>Fork</b> this repository and start working
-2. Push all your changes to your own git repository
+1. Create a private repository on GitHub
+2. Push all your changes to the git repository
 3. Deploy your application to heroku https://www.heroku.com/
 4. Send an email to <b>wilson@laboremus.no</b> and <b>davis@laboremus.no</b> with URLs to the git repository and the heroku application
 
